@@ -1,0 +1,90 @@
+12c12
+< 12>Información del producto 80 - prod80
+---
+> 12>Información del producto 10 - prod10
+14c14
+< Información del producto 75 - prod75
+---
+> Información del producto 25 - prod25
+16c16
+< Información del producto 70 - prod70
+---
+> Información del producto 30 - prod30
+18c18
+< Información del producto 60 - prod60
+---
+> Información del producto 40 - prod40
+20c20
+< Información del producto 55 - prod55
+---
+> Información del producto 45 - prod45
+24c24
+< Información del producto 45 - prod45
+---
+> Información del producto 55 - prod55
+26c26
+< Información del producto 40 - prod40
+---
+> Información del producto 60 - prod60
+28c28
+< Información del producto 30 - prod30
+---
+> Información del producto 70 - prod70
+30c30
+< Información del producto 25 - prod25
+---
+> Información del producto 75 - prod75
+32c32
+< Información del producto 10 - prod10
+---
+> Información del producto 80 - prod80
+35c35
+< Producto 40 quitado.
+---
+> No fue posible realizar esta operación.
+37c37
+< Producto 50 quitado.
+---
+> No fue posible realizar esta operación.
+39c39
+< Producto 55 quitado.
+---
+> No fue posible realizar esta operación.
+41c41
+< Producto 80 quitado.
+---
+> No fue posible realizar esta operación.
+43c43
+< Producto 30 quitado.
+---
+> No fue posible realizar esta operación.
+54c54
+< 23>Información del producto 75 - prod75
+---
+> 23>Información del producto 10 - prod10
+56c56
+< Información del producto 70 - prod70
+---
+> Información del producto 25 - prod25
+58c58,60
+< Información del producto 60 - prod60
+---
+> Información del producto 30 - prod30
+> Total de unidades: 0
+> Información del producto 40 - prod40
+62c64,72
+< Información del producto 25 - prod25
+---
+> Información del producto 50 - prod50
+> Total de unidades: 0
+> Información del producto 55 - prod55
+> Total de unidades: 0
+> Información del producto 60 - prod60
+> Total de unidades: 0
+> Información del producto 70 - prod70
+> Total de unidades: 0
+> Información del producto 75 - prod75
+64c74
+< Información del producto 10 - prod10
+---
+> Información del producto 80 - prod80

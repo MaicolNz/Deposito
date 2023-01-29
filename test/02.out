@@ -1,0 +1,48 @@
+1>Se agregaron 2 elementos con fecha 7/12/1990.
+2>Se agregaron 2 elementos con fecha 7/12/1991.
+3>Se agregaron 2 elementos con fecha 7/3/1991.
+4>Se agregaron 4 elementos con fecha 7/12/1991.
+5>La lista contiene elementos.
+6>7/12/1990 -> 2 
+7/3/1991 -> 2 
+7/12/1991 -> 6 
+7>7/12/1990 -> 2 
+8>Se quitaron elementos de la lista.
+9>7/12/1990 -> 1 
+7/3/1991 -> 2 
+7/12/1991 -> 6 
+10>7/12/1990 -> 1 
+11>Se quitaron elementos de la lista.
+12>7/3/1991 -> 1 
+7/12/1991 -> 6 
+13>Se agregaron 4 elementos con fecha 20/5/1989.
+14>20/5/1989 -> 4 
+7/3/1991 -> 1 
+7/12/1991 -> 6 
+15>20/5/1989 -> 4 
+16>Se quitaron elementos de la lista.
+17>7/12/1991 -> 6 
+18>7/12/1991 -> 6 
+19>La lista contiene elementos.
+20>Se quitaron elementos de la lista.
+21>La lista esta vacia.
+22>Estructuras reiniciadas.
+23>La lista esta vacia.
+24>La lista esta vacia.
+25>Se agregaron 2 elementos con fecha 7/12/1990.
+26>Se agregaron 2 elementos con fecha 7/12/1991.
+27>Se agregaron 2 elementos con fecha 7/3/1991.
+28>Se agregaron 4 elementos con fecha 7/12/1991.
+29>7/12/1990 -> 2 
+7/3/1991 -> 2 
+7/12/1991 -> 6 
+30>Se quitaron elementos de la lista.
+31>7/3/1991 -> 2 
+7/12/1991 -> 6 
+32>Se quitaron elementos de la lista.
+33>7/12/1991 -> 6 
+34>Se quitaron elementos de la lista.
+35>La lista esta vacia.
+36>La lista esta vacia.
+37>La lista esta vacia.
+38>Fin.

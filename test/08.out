@@ -1,0 +1,41 @@
+1>Producto agregado 55 - prod55.
+2>Producto agregado 60 - prod60.
+3>Producto agregado 50 - prod50.
+4>Fecha definida en forma exitosa.
+5>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+6>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 23/5/2023.
+7>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 25/5/2023.
+8>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 21/5/2023.
+9>Al producto 60 se le agregaron 2 unidades con fecha de vencimiento 17/5/2023.
+10>Al producto 60 se le agregaron 5 unidades con fecha de vencimiento 19/5/2023.
+11>Información del producto 60 - prod60
+Total de unidades: 7
+17/5/2023 -> 2 
+19/5/2023 -> 5 
+Información del producto 55 - prod55
+Total de unidades: 0
+Información del producto 50 - prod50
+Total de unidades: 14
+15/5/2023 -> 2 
+21/5/2023 -> 5 
+23/5/2023 -> 5 
+25/5/2023 -> 2 
+12>Se quitaron las proximas a vencer.
+13>Información del producto 60 - prod60
+Total de unidades: 0
+Información del producto 55 - prod55
+Total de unidades: 0
+Información del producto 50 - prod50
+Total de unidades: 7
+23/5/2023 -> 5 
+25/5/2023 -> 2 
+14>Se quitaron las proximas a vencer.
+15>Información del producto 60 - prod60
+Total de unidades: 0
+Información del producto 55 - prod55
+Total de unidades: 0
+Información del producto 50 - prod50
+Total de unidades: 7
+23/5/2023 -> 5 
+25/5/2023 -> 2 
+16>Fin.

@@ -1,0 +1,15 @@
+agregarNuevoProducto 50 prod50
+definirFecha 14/05/2023
+agregarUnidades 50 2 15/05/2023
+agregarUnidades 50 5 15/05/2024
+agregarUnidades 50 2 15/05/2025
+agregarUnidades 50 5 15/05/2026
+vencimientosProducto 50
+vencimientosProducto 50
+siguienteDia
+fechaActual
+vencimientosProducto 50
+aumentarDias 370
+fechaActual
+vencimientosProducto 50
+Fin

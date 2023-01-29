@@ -1,0 +1,66 @@
+1>Producto agregado 50 - prod50.
+2>Producto agregado 60 - prod60.
+3>Producto agregado 70 - prod70.
+4>Producto agregado 40 - prod40.
+5>Producto agregado 30 - prod30.
+6>Producto agregado 45 - prod45.
+7>Producto agregado 55 - prod55.
+8>Producto agregado 75 - prod75.
+9>Producto agregado 80 - prod80.
+10>Producto agregado 25 - prod25.
+11>Producto agregado 10 - prod10.
+12>Información del producto 80 - prod80
+Total de unidades: 0
+Información del producto 75 - prod75
+Total de unidades: 0
+Información del producto 70 - prod70
+Total de unidades: 0
+Información del producto 60 - prod60
+Total de unidades: 0
+Información del producto 55 - prod55
+Total de unidades: 0
+Información del producto 50 - prod50
+Total de unidades: 0
+Información del producto 45 - prod45
+Total de unidades: 0
+Información del producto 40 - prod40
+Total de unidades: 0
+Información del producto 30 - prod30
+Total de unidades: 0
+Información del producto 25 - prod25
+Total de unidades: 0
+Información del producto 10 - prod10
+Total de unidades: 0
+13>quitarProducto 40.
+Producto 40 quitado.
+14>quitarProducto 50.
+Producto 50 quitado.
+15>quitarProducto 55.
+Producto 55 quitado.
+16>quitarProducto 80.
+Producto 80 quitado.
+17>quitarProducto 30.
+Producto 30 quitado.
+18>quitarProducto 40.
+No fue posible realizar esta operación.
+19>quitarProducto 50.
+No fue posible realizar esta operación.
+20>quitarProducto 55.
+No fue posible realizar esta operación.
+21>quitarProducto 80.
+No fue posible realizar esta operación.
+22>quitarProducto 30.
+No fue posible realizar esta operación.
+23>Información del producto 75 - prod75
+Total de unidades: 0
+Información del producto 70 - prod70
+Total de unidades: 0
+Información del producto 60 - prod60
+Total de unidades: 0
+Información del producto 45 - prod45
+Total de unidades: 0
+Información del producto 25 - prod25
+Total de unidades: 0
+Información del producto 10 - prod10
+Total de unidades: 0
+24>Fin.

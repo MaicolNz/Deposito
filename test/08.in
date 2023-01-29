@@ -1,0 +1,16 @@
+agregarNuevoProducto 55 prod55
+agregarNuevoProducto 60 prod60
+agregarNuevoProducto 50 prod50
+definirFecha 14/05/2023
+agregarUnidades 50 2 15/05/2023
+agregarUnidades 50 5 23/05/2023
+agregarUnidades 50 2 25/05/2023
+agregarUnidades 50 5 21/05/2023
+agregarUnidades 60 2 17/05/2023
+agregarUnidades 60 5 19/05/2023
+resumenDeposito
+quitarProximasAVencer
+resumenDeposito
+quitarProximasAVencer
+resumenDeposito
+Fin

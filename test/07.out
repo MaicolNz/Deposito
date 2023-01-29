@@ -1,0 +1,34 @@
+1>Producto agregado 50 - prod50.
+2>Fecha definida en forma exitosa.
+3>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+4>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 15/5/2024.
+5>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2025.
+6>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 15/5/2026.
+7>Información del producto 50 - prod50
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+8>Información del producto 50 - prod50
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+9>Se aumentó un día.
+siguienteDia.
+10>La fecha actual es 15/5/2023.
+11>Información del producto 50 - prod50
+Total de unidades: 12
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+12>Se incrementó la fecha.
+aumentarDias 370.
+13>La fecha actual es 19/5/2024.
+14>Información del producto 50 - prod50
+Total de unidades: 7
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+15>Fin.

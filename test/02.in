@@ -1,0 +1,38 @@
+agregarALista 2 07/12/1990
+agregarALista 2 07/12/1991
+agregarALista 2 07/03/1991
+agregarALista 4 07/12/1991
+esVaciaLista
+imprimirInfoLista
+obtenerMasViejo
+quitarDeLista 1
+imprimirInfoLista
+obtenerMasViejo
+quitarDeLista 2
+imprimirInfoLista
+agregarALista 4 20/05/1989
+imprimirInfoLista
+obtenerMasViejo
+quitarDeLista 5
+imprimirInfoLista
+obtenerMasViejo
+esVaciaLista
+quitarDeLista 100
+imprimirInfoLista
+reiniciarEstructuras
+esVaciaLista
+imprimirInfoLista
+agregarALista 2 07/12/1990
+agregarALista 2 07/12/1991
+agregarALista 2 07/03/1991
+agregarALista 4 07/12/1991
+imprimirInfoLista
+quitarMasViejo
+imprimirInfoLista
+quitarMasViejo
+imprimirInfoLista
+quitarMasViejo
+imprimirInfoLista
+quitarMasViejo
+imprimirInfoLista
+Fin

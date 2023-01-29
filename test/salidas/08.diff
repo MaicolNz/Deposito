@@ -1,0 +1,54 @@
+5,14c5,12
+< 5>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+< 6>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 23/5/2023.
+< 7>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 25/5/2023.
+< 8>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 21/5/2023.
+< 9>Al producto 60 se le agregaron 2 unidades con fecha de vencimiento 17/5/2023.
+< 10>Al producto 60 se le agregaron 5 unidades con fecha de vencimiento 19/5/2023.
+< 11>Información del producto 60 - prod60
+< Total de unidades: 7
+< 17/5/2023 -> 2 
+< 19/5/2023 -> 5 
+---
+> 5>No fue posible agregar las unidades.
+> 6>No fue posible agregar las unidades.
+> 7>No fue posible agregar las unidades.
+> 8>No fue posible agregar las unidades.
+> 9>No fue posible agregar las unidades.
+> 10>No fue posible agregar las unidades.
+> 11>Información del producto 50 - prod50
+> Total de unidades: 0
+17,22c15,16
+< Información del producto 50 - prod50
+< Total de unidades: 14
+< 15/5/2023 -> 2 
+< 21/5/2023 -> 5 
+< 23/5/2023 -> 5 
+< 25/5/2023 -> 2 
+---
+> Información del producto 60 - prod60
+> Total de unidades: 0
+24c18
+< 13>Información del producto 60 - prod60
+---
+> 13>Información del producto 50 - prod50
+28,31c22,23
+< Información del producto 50 - prod50
+< Total de unidades: 7
+< 23/5/2023 -> 5 
+< 25/5/2023 -> 2 
+---
+> Información del producto 60 - prod60
+> Total de unidades: 0
+33c25
+< 15>Información del producto 60 - prod60
+---
+> 15>Información del producto 50 - prod50
+37,40c29,30
+< Información del producto 50 - prod50
+< Total de unidades: 7
+< 23/5/2023 -> 5 
+< 25/5/2023 -> 2 
+---
+> Información del producto 60 - prod60
+> Total de unidades: 0

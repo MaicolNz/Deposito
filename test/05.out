@@ -1,0 +1,95 @@
+1>Producto agregado 55 - prod55.
+2>Producto agregado 60 - prod60.
+3>Producto agregado 50 - prod50.
+4>Fecha definida en forma exitosa.
+5>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+6>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 15/5/2024.
+7>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 15/5/2025.
+8>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 15/5/2026.
+9>Al producto 60 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+10>Al producto 60 se le agregaron 5 unidades con fecha de vencimiento 15/5/2024.
+11>Al producto 60 se le agregaron 2 unidades con fecha de vencimiento 15/5/2025.
+12>Al producto 60 se le agregaron 5 unidades con fecha de vencimiento 15/5/2026.
+13>Al producto 55 se le agregaron 2 unidades con fecha de vencimiento 15/5/2023.
+14>Al producto 55 se le agregaron 5 unidades con fecha de vencimiento 15/5/2024.
+15>Al producto 55 se le agregaron 2 unidades con fecha de vencimiento 15/5/2025.
+16>Al producto 55 se le agregaron 5 unidades con fecha de vencimiento 15/5/2026.
+17>Información del producto 60 - prod60
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 55 - prod55
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 50 - prod50
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+18>quitarUnidades 50 - 1.
+19>Información del producto 60 - prod60
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 55 - prod55
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 50 - prod50
+Total de unidades: 13
+15/5/2023 -> 1 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+20>quitarUnidades 50 - 2.
+21>Información del producto 60 - prod60
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 55 - prod55
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 50 - prod50
+Total de unidades: 11
+15/5/2024 -> 4 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+22>quitarUnidades 60 - 2.
+23>Información del producto 60 - prod60
+Total de unidades: 12
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 55 - prod55
+Total de unidades: 14
+15/5/2023 -> 2 
+15/5/2024 -> 5 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+Información del producto 50 - prod50
+Total de unidades: 11
+15/5/2024 -> 4 
+15/5/2025 -> 2 
+15/5/2026 -> 5 
+24>quitarProducto 55.
+No fue posible realizar esta operación.
+25>quitarProducto 60.
+No fue posible realizar esta operación.
+26>quitarProducto 50.
+No fue posible realizar esta operación.
+27>Fin.

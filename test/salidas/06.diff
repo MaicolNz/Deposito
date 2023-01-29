@@ -1,0 +1,31 @@
+3,6c3,6
+< 3>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 1/5/2023.
+< 4>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 1/5/2024.
+< 5>Al producto 50 se le agregaron 2 unidades con fecha de vencimiento 1/5/2025.
+< 6>Al producto 50 se le agregaron 5 unidades con fecha de vencimiento 1/5/2026.
+---
+> 3>No fue posible agregar las unidades.
+> 4>No fue posible agregar las unidades.
+> 5>No fue posible agregar las unidades.
+> 6>No fue posible agregar las unidades.
+8,12c8
+< Total de unidades: 14
+< 1/5/2023 -> 2 
+< 1/5/2024 -> 5 
+< 1/5/2025 -> 2 
+< 1/5/2026 -> 5 
+---
+> Total de unidades: 0
+15,19c11
+< Total de unidades: 14
+< 1/5/2023 -> 2 
+< 1/5/2024 -> 5 
+< 1/5/2025 -> 2 
+< 1/5/2026 -> 5 
+---
+> Total de unidades: 0
+22,23c14
+< Total de unidades: 5
+< 1/5/2026 -> 5 
+---
+> Total de unidades: 0

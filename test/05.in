@@ -1,0 +1,27 @@
+agregarNuevoProducto 55 prod55
+agregarNuevoProducto 60 prod60
+agregarNuevoProducto 50 prod50
+definirFecha 14/05/2023
+agregarUnidades 50 2 15/05/2023
+agregarUnidades 50 5 15/05/2024
+agregarUnidades 50 2 15/05/2025
+agregarUnidades 50 5 15/05/2026
+agregarUnidades 60 2 15/05/2023
+agregarUnidades 60 5 15/05/2024
+agregarUnidades 60 2 15/05/2025
+agregarUnidades 60 5 15/05/2026
+agregarUnidades 55 2 15/05/2023
+agregarUnidades 55 5 15/05/2024
+agregarUnidades 55 2 15/05/2025
+agregarUnidades 55 5 15/05/2026
+resumenDeposito
+quitarUnidades 50 1
+resumenDeposito
+quitarUnidades 50 2
+resumenDeposito
+quitarUnidades 60 2
+resumenDeposito
+quitarProducto 55
+quitarProducto 60
+quitarProducto 50
+Fin
